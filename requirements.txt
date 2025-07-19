@@ -1,0 +1,7 @@
+langchain_community
+langchain-openai
+arxiv
+python_dotenv
+langchain_tavily
+wikipedia
+langgraph
